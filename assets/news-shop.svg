@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 250" role="img" aria-label="Ouverture de la boutique en ligne Ohsibon">
+  <defs><linearGradient id="ns" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="oklch(0.63 0.055 146)"/><stop offset="1" stop-color="oklch(0.46 0.05 148)"/></linearGradient></defs>
+  <rect width="400" height="250" fill="url(#ns)"/>
+  <circle cx="70" cy="40" r="110" fill="oklch(0.99 0.02 80)" opacity=".07"/>
+  <circle cx="350" cy="220" r="90" fill="oklch(0.2 0.03 148)" opacity=".2"/>
+  <!-- panier -->
+  <g transform="translate(200 128)" fill="none" stroke="oklch(0.99 0.02 80)" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M-44 -34h12l8 18h60l-9 30h-50"/>
+    <path d="M-26 -16 -18 14h48"/>
+    <circle cx="-18" cy="34" r="7" fill="oklch(0.99 0.02 80)" stroke="none"/>
+    <circle cx="22" cy="34" r="7" fill="oklch(0.99 0.02 80)" stroke="none"/>
+  </g>
+  <path transform="translate(232 96) scale(0.9)" fill="oklch(0.8 0.135 72)"
+    d="M0 -14l3.4 7 7.6.5-5.8 5 1.9 7.4L0 8.6 -7 12.4l1.9-7.4-5.8-5 7.6-.5z"/>
+  <text x="28" y="44" font-family="Montserrat, sans-serif" font-weight="800" font-size="15" letter-spacing="3" fill="oklch(0.99 0.02 80)">EN LIGNE</text>
+</svg>

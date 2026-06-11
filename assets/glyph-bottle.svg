@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="Bouteille d'eau d'érable">
+  <defs>
+    <linearGradient id="gb" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="oklch(0.72 0.06 200)"/>
+      <stop offset="1" stop-color="oklch(0.58 0.07 215)"/>
+    </linearGradient>
+  </defs>
+  <rect x="50" y="14" width="20" height="12" rx="3" fill="oklch(0.5 0.13 42)"/>
+  <path d="M48 26h24c0 8 6 10 6 20v44a12 12 0 0 1-12 12H54a12 12 0 0 1-12-12V46c0-10 6-12 6-20z" fill="url(#gb)" stroke="oklch(0.3 0.04 215)" stroke-width="2"/>
+  <rect x="44" y="58" width="32" height="30" rx="5" fill="oklch(0.97 0.02 80)" opacity=".92"/>
+  <path d="M60 64l3 6h6l-5 4 2 7-6-4-6 4 2-7-5-4h6z" fill="oklch(0.5 0.13 42)"/>
+  <path d="M48 36c8 4 16 4 24 0" fill="none" stroke="oklch(0.96 0.02 200)" stroke-width="2" stroke-linecap="round" opacity=".7"/>
+</svg>

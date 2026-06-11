@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 250" role="img" aria-label="Lancement de la gamme de soins à l'érable">
+  <defs><linearGradient id="nl" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="oklch(0.62 0.145 46)"/><stop offset="1" stop-color="oklch(0.48 0.125 38)"/></linearGradient></defs>
+  <rect width="400" height="250" fill="url(#nl)"/>
+  <circle cx="330" cy="40" r="120" fill="oklch(0.99 0.02 80)" opacity=".07"/>
+  <circle cx="60" cy="220" r="90" fill="oklch(0.2 0.03 40)" opacity=".18"/>
+  <!-- pot de crème -->
+  <g transform="translate(200 132)">
+    <rect x="-40" y="-34" width="80" height="20" rx="7" fill="oklch(0.8 0.135 72)"/>
+    <path d="M-36 -14h72v56a14 14 0 0 1-14 14h-44a14 14 0 0 1-14-14z" fill="oklch(0.985 0.015 80)"/>
+    <circle cx="0" cy="22" r="20" fill="none" stroke="oklch(0.585 0.14 44)" stroke-width="3.5"/>
+    <path d="M0 9l4.2 8.4 9.2.6-7 6.3 2.3 9L0 38.6 -8.7 43.3l2.3-9-7-6.3 9.2-.6z" fill="oklch(0.585 0.14 44)"/>
+  </g>
+  <text x="28" y="44" font-family="Montserrat, sans-serif" font-weight="800" font-size="15" letter-spacing="3" fill="oklch(0.99 0.02 80)">NOUVEAU</text>
+</svg>
