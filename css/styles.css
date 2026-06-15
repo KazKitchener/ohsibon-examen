@@ -677,9 +677,9 @@ a.orgcard__a, .orgcard a { color: inherit; text-decoration: none; display: block
   text-decoration-color: rgba(0, 141, 255,.75); cursor: pointer; transition: color .15s, text-decoration-color .15s; }
 .src:hover, .src:focus { color: var(--terra); text-decoration-color: var(--terra); }
 /* sur fond foncé (bandes, en-têtes de page), un soulignement clair reste visible */
-.band .src, .pagehead .src { text-decoration-color: rgba(255,255,255,.32); }
+.band .src, .pagehead .src { text-decoration-color: rgba(0, 141, 255,.75); }
 .band .src:hover, .band .src:focus, .pagehead .src:hover, .pagehead .src:focus { color: var(--amber); text-decoration-color: var(--amber); }
 /* mais une carte blanche posée sur une bande foncée garde le soulignement foncé */
-.band .card .src, .band .panel .src, .band .smartcard .src { text-decoration-color: rgba(0,0,0,.25); }
+.band .card .src, .band .panel .src, .band .smartcard .src { text-decoration-color: rgba(0, 141, 255,.75); }
 .band .card .src:hover, .band .card .src:focus,
 .band .panel .src:hover, .band .smartcard .src:hover { color: var(--terra); text-decoration-color: var(--terra); }
