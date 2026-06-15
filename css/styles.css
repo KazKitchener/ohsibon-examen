@@ -673,8 +673,8 @@ a.orgcard__a, .orgcard a { color: inherit; text-decoration: none; display: block
 .justif[open] > summary::after { transform: rotate(180deg); }
 .justif__body { padding: 0 20px 20px; max-width: 70ch; color: var(--ink); }
 
-.src { color: rgb(0, 141, 255); text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 3px;
-  text-decoration-color: rgba(0,0,0,.25); cursor: pointer; transition: color .15s, text-decoration-color .15s; }
+.src { color: inherit; text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 3px;
+  text-decoration-color: rgba(0, 141, 255,.75); cursor: pointer; transition: color .15s, text-decoration-color .15s; }
 .src:hover, .src:focus { color: var(--terra); text-decoration-color: var(--terra); }
 /* sur fond foncé (bandes, en-têtes de page), un soulignement clair reste visible */
 .band .src, .pagehead .src { text-decoration-color: rgba(255,255,255,.32); }
